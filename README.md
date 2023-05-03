@@ -1,3 +1,18 @@
+# Breve seção para explicar
+
+1. Rodei o comando `npx create-react-app login-react`
+
+2. Editei o App.js
+
+3. Criei o LoginPage.js
+
+4. Para iniciar o app, rodar o comando `npm start`
+
+Isso inicializa o app e navega até http://localhost:3000/ para ver a tela de login.
+
+User: `user`
+Senha: `senha`
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
